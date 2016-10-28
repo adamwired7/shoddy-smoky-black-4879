@@ -17,3 +17,6 @@ source $vagrant_bashrc
 
 cd /home/vagrant/wired7-demo
 gem install bundler
+
+
+sudo apt-get -y install mysql-server-5.5
